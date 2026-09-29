@@ -1,5 +1,5 @@
-def pedir_nombre(nombre):
-    nombre = input("Escribe tu nombre")
+def pedir_nombre():
+    nombre = input("Escribe tu nombre ")
     return "Hola " + nombre
 
 if __name__== "__main__":
